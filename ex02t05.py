@@ -34,5 +34,4 @@ elif choice == 4:
     print(f"Phone Number  :{phone_number if phone_number else 'N/A':>10}")
     print(f"Balance       :{balance:>10}")
 else:
-    print("please enter one of the above numbers"
-          )
+    print("please enter one of the above numbers")
